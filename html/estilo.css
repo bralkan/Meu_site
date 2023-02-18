@@ -1,0 +1,23 @@
+.jao{
+    color: rgb(189, 192, 194);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-variant-position: calc();
+    text-align: center;
+    font-size: 35px;
+}
+
+.segue{
+    color: rgb(189, 192, 194);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-variant-position: calc();
+    text-align: left;
+    font-size: 30px;
+}
+
+.link{
+    color: rgb(159, 233, 255);
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-variant-position: calc();
+    text-align: left;
+    font-size: 20px;
+
